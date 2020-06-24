@@ -1,7 +1,10 @@
-# <center>Data-ANZ-Internship-20<center>
-![image](https://pbs.twimg.com/profile_images/965819006346129408/Xf_KML64_400x400.jpg)
-I was assigned the data for 3 months of year 2018 to analyses and predict
+# <center>Data@ANZ Virtual Experience 20<center>
+![image](https://www.stockland.com.au/~/media/shopping-centre/stockland-green-hills/stores/anz/anz1.jpg)
 
+
+ANZ- The Australia and New Zealand Banking Group Limited, commonly called ANZ, is an Australian multinational banking and financial services company headquartered in Melbourne, Australia. It is the second largest bank by assets and third largest bank by market capitalisation in Australia.
+
+I was assigned the data for 3 months of year 2018 to analyses and predict
 ## Task 1
 Task 1 included pre-processing, visualization and presentation of the data
 #### Tools Used- Tableau and Microsoft Office 19
