@@ -4,7 +4,7 @@
 
 ANZ- The Australia and New Zealand Banking Group Limited, commonly called ANZ, is an Australian multinational banking and financial services company headquartered in Melbourne, Australia. It is the second largest bank by assets and third largest bank by market capitalisation in Australia.
 
-I was assigned the data for 3 months of year 2018 to analyses and predict
+I was assigned the data for 3 months of year 2018 to analyze and predict
 ## Task 1
 Task 1 included pre-processing, visualization and presentation of the data
 #### Tools Used- Tableau and Microsoft Office 19
