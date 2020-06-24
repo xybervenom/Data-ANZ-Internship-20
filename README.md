@@ -1,5 +1,6 @@
-# Data-ANZ-Internship-20
-![image](https://pbs.twimg.com/profile_images/965819006346129408/Xf_KML64_400x400.jpg)
+# <center>Data-ANZ-Internship-20<center>
+<center>![image](https://pbs.twimg.com/profile_images/965819006346129408/Xf_KML64_400x400.jpg) <center>
+
 I was assigned the data for 3 months of year 2018 to analyses and predict
 
 ## Task 1
